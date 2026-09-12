@@ -5,7 +5,7 @@ on:
 
   push:
     branches:
-      - q41-fa-b10902
+      - b10902-q4_1
 
 permissions:
   contents: read
